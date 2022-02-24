@@ -1783,3 +1783,9 @@ vendors:
 
   - id: iot4eu
     name: IOT4 Ltd
+
+  - id: wavetrend
+    name: Wavetrend Europe Ltd
+    website: https://wavetrend.net
+    social:
+      github: wavetrend
